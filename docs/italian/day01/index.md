@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Day 1
 parent: Decameron Italian
 nav_order: 1
