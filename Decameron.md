@@ -1,12 +1,9 @@
 ---
-title: Test
+title: Decameron
 has_children: true
 nav_order: 2
 ---
 
-# Another page
+# Decameron
 
 Test this
-
-
-blah
