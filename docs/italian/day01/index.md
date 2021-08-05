@@ -1,7 +1,6 @@
 ---
 title: Day 1
-parent: Prologue
-grand_parent: Decameron Italian
+parent: Decameron Italian
 nav_order: 1
 ---
 
