@@ -22,7 +22,7 @@ permalink: /
 
 <script>
       var CETEIcean = new CETEI();
-      CETEIcean.getHTML5('docs/xml/plant001.xml', function(data) {
+      CETEIcean.getHTML5('/files/italian/itDay01Intro.xml', function(data) {
         document.getElementById("TEI").innerHTML = "";
         document.getElementById("TEI").appendChild(data);
         CETEIcean.addStyle(document, data);
